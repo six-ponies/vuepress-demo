@@ -6,9 +6,9 @@ Run
 yarn run docs:build
 ```
 
-and you'll see errors in terminal, 
+and you'll see errors in terminal
 
-```
+```bash
 (node:2900) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'catch' of undefined
     at server-bundle.js:13412:23
 (Use `node --trace-warnings ...` to show where the warning was created)
